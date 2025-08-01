@@ -41,5 +41,8 @@
   "strapi": {
     "uuid": "cca9f42e-4774-4e8b-8cfb-3915f2bc8709",
     "installId": "1c474453a56db2d1f7af2a394449e9dbacbae703abfc2ed621a74ab6854d834e"
+  },
+  "volta": {
+    "node": "22.14.0"
   }
 }
